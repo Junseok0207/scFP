@@ -25,7 +25,7 @@ Create the directory to save dataset.
 mkdir dataset
 ```
 
-You can download proprocessed data [here](https://www.dropbox.com/sh/eaujyhthxjs0d5g/AADzvVv-h2yYWaoOfs1sybKea?dl=0)
+You can download preprocessed data [here](https://www.dropbox.com/sh/eaujyhthxjs0d5g/AADzvVv-h2yYWaoOfs1sybKea?dl=0)
 
 ## How to Run
 
