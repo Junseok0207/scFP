@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-ICML_WCB_2023-blue" />
 
-The official source code for "Single-cell RNA-seq data imputation using Feature Propagation", accepted at 2023 ICML Workshop on Computational Biology (Contributed talk).
+The official source code for "Single-cell RNA-seq data imputation using Feature Propagation", accepted at 2023 ICML Workshop on Computational Biology (Contributed talk, Best Paper).
 
 ## Overview
 
